@@ -1,1 +1,1 @@
-aaa
+Naver Boostcamp AI tech 6기를 위한 repo
